@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">A passionate ML and Software Developer Student. I use nano as my terminal editor :P. By the Way, I use Arch.</h3>
+<h3 align="center">A passionate ML and Software Developer Student. I use nano as my terminal editor :P . By the Way I used Arch.</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeaman03&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeaman03" /> </p>
 
 - 🌱 I’m currently learning **DevOps and ReactJS**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aman.kr.ak03@gmail.com**
 
-- 📄 Know about my experiences [ML-Resume](https://drive.google.com/file/d/1azIn94eNwqmhQUSG7E711IlUkuuZ7Al9/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1azIn94eNwqmhQUSG7E711IlUkuuZ7Al9/view?usp=drive_link](https://drive.google.com/file/d/1azIn94eNwqmhQUSG7E711IlUkuuZ7Al9/view?usp=drive_link)
 
 - ⚡ Fun fact **I can't choose between sleep and food.**
 
