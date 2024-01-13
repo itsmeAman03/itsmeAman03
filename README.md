@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aman.kr.ak03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1azIn94eNwqmhQUSG7E711IlUkuuZ7Al9/view?usp=drive_link](https://drive.google.com/file/d/1azIn94eNwqmhQUSG7E711IlUkuuZ7Al9/view?usp=drive_link)
+- 📄 Know about my experiences [ML-Resume](https://drive.google.com/file/d/1azIn94eNwqmhQUSG7E711IlUkuuZ7Al9/view?usp=drive_link)
 
 - ⚡ Fun fact **I can't choose between sleep and food.**
 
