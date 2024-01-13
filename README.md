@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">A passionate ML and Software Developer Student. I use nano as my terminal editor :P . By the Way I used Arch.</h3>
+<h3 align="center">A passionate ML and Software Developer Student. I use nano as my terminal editor :P . By the Way I use Arch.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeaman03&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeaman03" /> </p>
 
@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmeaman03&show_icons=true&locale=en" alt="itsmeaman03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeaman03&" alt="itsmeaman03" /></p>
+
